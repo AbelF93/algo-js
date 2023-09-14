@@ -1,24 +1,38 @@
-# JavaScript Algorythmics Repository
+# JavaScript Algorithmics Repository
 
-This repository serves as a platform for learning and acquiring fundamental JavaScript concepts. It covers a range of topics including variables, operators, arrays, control structures, and functions. We are diving into the javascript langage, and for that we'll experiment capital aspects  of this langage.
+Welcome to the JavaScript Algorithmics Repository! This platform is dedicated to learning and mastering fundamental JavaScript concepts and algorithmic problem-solving. We will delve into the JavaScript language, exploring both the foundational aspects and advanced topics to help you become a proficient JavaScript developer.
 
 ## Topics Covered
 
-The repository covers the following essential JavaScript topics:
+The repository provides comprehensive coverage of essential JavaScript topics and more:
 
-1. **Variables**:
-   - Learning how to declare and use variables to store data.
+1. **[Variables](./1.variables/readme_variables.md)**:
+   - Learn how to declare and use variables to store data.
 
-2. **Operators**:
-   - Explore various operators such as arithmetic, comparison, and logical operators.
+2. **[Operators](./2.operators/readme_operators.md)**:
+   - Explore various operators, including arithmetic, comparison, and logical operators.
+   - Dive into control structures like if statements, loops, and switch statements for making decisions and controlling program flow.
 
-3. **Arrays**:
+3. **[Arrays](./3.arrays/readme_arrays.md)**:
    - Understand the concept of arrays and how to manipulate array elements.
 
-4. **Control Structures**:
-   - Learning control structures like if statements, loops, and switch statements for making decisions and controlling program flow.
+4. **[Functions](./4.functions/readme_functions.md)**:
+   - Grasp the concept of defining and using functions to organize code and perform tasks.
 
-5. **Functions**:
-   - Understanding how to define and use functions to organize code and perform tasks.
+5. **[Objects](./5.objects/readme_objects.md)**:
+   - Explore the world of JavaScript objects, their properties, and methods.
 
-**Disclaimer**: This repository is intended for educational purposes, and the code provided here may not cover every possible edge case or best practice. It is advisable to refer to official documentation and further resources for in-depth understanding and advanced topics.
+6. **[Classes](./6.classes/readme_classes.md)**::
+   - Discover how to work with classes and create object-oriented JavaScript code.
+
+Each topic is accompanied by a dedicated README file with explanations, examples, and exercises to help you deepen your understanding of JavaScript.
+
+## Contribution
+
+Contributions to this repository are encouraged. If you have additional examples, explanations, or improvements related to JavaScript concepts and algorithmic problem-solving, please consider submitting a pull request to enhance this valuable learning resource.
+
+## Disclaimer
+
+This repository is intended for educational purposes, and the code provided here may not cover every possible edge case or best practice. It is advisable to refer to official documentation and further resources for in-depth understanding and advanced topics in JavaScript.
+
+Happy learning and exploring JavaScript algorithmics!
