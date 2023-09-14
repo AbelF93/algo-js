@@ -1,3 +1,4 @@
+
 # JavaScript Algorithmics Repository
 
 Welcome to the JavaScript Algorithmics Repository! This platform is dedicated to learning and mastering fundamental JavaScript concepts and algorithmic problem-solving. We will delve into the JavaScript language, exploring both the foundational aspects and advanced topics to help you become a proficient JavaScript developer.
@@ -29,3 +30,4 @@ The repository provides comprehensive coverage of essential JavaScript topics an
 ## Disclaimer
 
 This repository is intended for educational purposes, and the code provided here may not cover every possible edge case or best practice. It is advisable to refer to official documentation and further resources for in-depth understanding and advanced topics in JavaScript.
+
