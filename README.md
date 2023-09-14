@@ -25,14 +25,7 @@ The repository provides comprehensive coverage of essential JavaScript topics an
 6. **[Classes](./JScripts/6.classes/readme_classes.md)**::
    - Discover how to work with classes and create object-oriented JavaScript code.
 
-Each topic is accompanied by a dedicated README file with explanations, examples, and exercises to help you deepen your understanding of JavaScript.
-
-## Contribution
-
-Contributions to this repository are encouraged. If you have additional examples, explanations, or improvements related to JavaScript concepts and algorithmic problem-solving, please consider submitting a pull request to enhance this valuable learning resource.
 
 ## Disclaimer
 
 This repository is intended for educational purposes, and the code provided here may not cover every possible edge case or best practice. It is advisable to refer to official documentation and further resources for in-depth understanding and advanced topics in JavaScript.
-
-Happy learning and exploring JavaScript algorithmics!
