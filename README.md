@@ -6,23 +6,23 @@ Welcome to the JavaScript Algorithmics Repository! This platform is dedicated to
 
 The repository provides comprehensive coverage of essential JavaScript topics and more:
 
-1. **[Variables](./1.variables/readme_variables.md)**:
+1. **[Variables](./JScripts/1.variables/readme_variables.md)**:
    - Learn how to declare and use variables to store data.
 
-2. **[Operators](./2.operators/readme_operators.md)**:
+2. **[Operators](./JScripts/2.operators/readme_operators.md)**:
    - Explore various operators, including arithmetic, comparison, and logical operators.
    - Dive into control structures like if statements, loops, and switch statements for making decisions and controlling program flow.
 
-3. **[Arrays](./3.arrays/readme_arrays.md)**:
+3. **[Arrays](./JScripts/3.arrays/readme_arrays.md)**:
    - Understand the concept of arrays and how to manipulate array elements.
 
-4. **[Functions](./4.functions/readme_functions.md)**:
+4. **[Functions](./JScripts/4.functions/readme_functions.md)**:
    - Grasp the concept of defining and using functions to organize code and perform tasks.
 
-5. **[Objects](./5.objects/readme_objects.md)**:
+5. **[Objects](./JScripts/5.objects/readme_objects.md)**:
    - Explore the world of JavaScript objects, their properties, and methods.
 
-6. **[Classes](./6.classes/readme_classes.md)**::
+6. **[Classes](./JScripts/6.classes/readme_classes.md)**::
    - Discover how to work with classes and create object-oriented JavaScript code.
 
 Each topic is accompanied by a dedicated README file with explanations, examples, and exercises to help you deepen your understanding of JavaScript.
